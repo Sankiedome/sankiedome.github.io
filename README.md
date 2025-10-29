@@ -2,7 +2,7 @@ Herkese merhaba ben Erdem Erol yakında sizlere yazılım ve uygulama içerikler
 
 NELER Mİ OLACAK?
 - Önceden öğrendiğim yazılım ve uygulama içerikleri
-  a. Bir kod editörü kurmak sizin için daha faydalı ve pratik olacaktır
+- a. Bir kod editörü kurmak sizin için daha faydalı ve pratik olacaktır
   (örn: Visual Studio Code)
   1. HTML
   2. CSS
