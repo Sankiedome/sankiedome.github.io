@@ -1,0 +1,43 @@
+::-webkit-scrollbar{
+background-color: darkgrey;
+width: 10px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: bisque;
+    border: 1px solid black;
+    border-radius: 16px;
+}
+body{
+    background-color: bisque;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+header{
+    display:flex;
+    justify-content: space-between;
+    background-color: darkgrey;
+    margin: 0px;
+}
+header div{
+    cursor:pointer;
+}
+header nav ul{
+    display: flex;
+    justify-content: right;
+    list-style-type: none;
+}
+header nav ul li{
+    padding-right: 50px;
+    padding-top: 18px;
+    font-size: 25px;
+}
+header nav ul a{
+    color: sienna;
+}
+header nav ul li:hover{
+    transform: scale(1.4);
+    color: black;
+}
